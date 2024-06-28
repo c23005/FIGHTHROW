@@ -21,10 +21,10 @@
 
 * [画面外のプレイヤーを追跡するカーソル](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/InOutScript.cs)
 
-* <dt>[ステージギミック]</dt>
+* <dt>ステージギミック</dt>
 
-<dd>[ステージ1](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/ForestStageGimmickScript.cs)</dd>
+<dd>[ステージ1]</dd>(https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/ForestStageGimmickScript.cs)
 
-<dd>[ステージ2](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/IceStageGimmickScript.cs)</dd>
+<dd>[ステージ2]</dd>(https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/IceStageGimmickScript.cs)
 
-<dd>[ステージ3](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/VolcanoStageGimmickScript.cs)</dd>
+<dd>[ステージ3]</dd>(https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/VolcanoStageGimmickScript.cs)
