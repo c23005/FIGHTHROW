@@ -1,0 +1,9 @@
+アイテム番号,アイテムの種類,画像ファイル名,ダメージ,ファイル名
+1,レンガ,brick,20,Brick
+2,ハンマー,hammer,40,Hammer
+3,ダンベル,,55,Dumbbell
+4,斧,flameAxe,65,Axe
+5,雪玉,snowboll,20,Snowball
+6,スコップ,scoop,40,Scoop
+7,黒曜石,rva,20,Obsidian
+8,つるはし,pickaxe,40,Pickaxe
