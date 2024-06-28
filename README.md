@@ -23,8 +23,8 @@
 
 * [ステージギミック]
 
-** [ステージ1](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/ForestStageGimmickScript.cs)
+   1. [ステージ1](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/ForestStageGimmickScript.cs)
 
-** [ステージ2](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/IceStageGimmickScript.cs)
+   2. [ステージ2](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/IceStageGimmickScript.cs)
 
-** [ステージ3](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/VolcanoStageGimmickScript.cs)
+   3. [ステージ3](https://github.com/c23005/FIGHTHROW/blob/main/ProjectData/Team2/Assets/Scripts/Gimmiks/VolcanoStageGimmickScript.cs)
