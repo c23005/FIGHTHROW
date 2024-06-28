@@ -58,3 +58,6 @@ Unity 2022.3.7f1
 <img src="https://github.com/c23005/FIGHTHROW/blob/main/ScreenShot/Title.png" width="600px">
 <img src="https://github.com/c23005/FIGHTHROW/blob/main/ScreenShot/StageSelectScene.png" width="600px">
 <img src="https://github.com/c23005/FIGHTHROW/blob/main/ScreenShot/Battle.png" width="600px">
+<img src="https://github.com/c23005/FIGHTHROW/blob/main/ScreenShot/UIMiniMap.png" width="600px">
+<img src="https://github.com/c23005/FIGHTHROW/blob/main/ScreenShot/1pWin.png" width="600px">
+<img src="https://github.com/c23005/FIGHTHROW/blob/main/ScreenShot/2pWin.png" width="600px">
