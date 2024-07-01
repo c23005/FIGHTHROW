@@ -12,6 +12,7 @@
 ## プラットフォーム
 
 * [Windousビルドデータ](https://github.com/c23005/FIGHTHROW/tree/main/BuildData/20240627_FIGHTHROW)
+※ プレイステーションのコントローラーを2つ使用して遊ぶゲームです
 
 ## 担当箇所
 
